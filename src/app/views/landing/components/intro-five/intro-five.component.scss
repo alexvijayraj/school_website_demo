@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+  .intro-title {
+    padding: 0 2.5vmin;
+    text-align: center;
+  }
+
+  .intro-text {
+    padding: 0 2.5vmin;
+    text-align: center;
+  }
+
+  .intro-list-container {
+    display: flex;
+    justify-content: center;
+  }
+}

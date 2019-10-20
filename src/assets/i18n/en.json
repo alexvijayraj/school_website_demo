@@ -1,0 +1,79 @@
+{
+  "HEADER": {
+    "HOME": "Home",
+    "FEATURES": "Features",
+    "EVENTS": "Events",
+    "TESTIMONIALS": "Testimonials",
+    "LANGUAGE": "Change Language",
+    "CONTACT": "Contact Us"
+  },
+  "INTRO": {
+    "TITLE": "Your Child's potential is our passion",
+    "TEXT": "Royal Public School is a place where values are affirmed, young minds are enriched, and dreams take flight.",
+    "SUB_TEXT_1": "1:8 Teacher-Student Ratio",
+    "SUB_TEXT_2": "65% Teachers with 10+ Years Experience",
+    "LEARN_MORE": "LEARN MORE",
+    "CONTACT": "Contact Us"
+  },
+  "FEATURES": {
+    "TITLE": "Our Exciting Features",
+    "TEXT": "Beautiful and functional, the Royal Public School has exciting, purpose-built school facilities that are colourful and dynamic, designed to enhance the learning experience. ",
+    "SUB_TITLE_1": "Computer Lab",
+    "SUB_TEXT_1": "A well-equipped computer lab with modern facilities to simplify the learning process.",
+    "SUB_TITLE_2": "Transportation",
+    "SUB_TEXT_2": "Excellent School Bus facilities with professional staff to provide the best service.",
+    "SUB_TITLE_3": "Student Rewards",
+    "SUB_TEXT_3": "Motivation increases performance. This is evident through our detailed Student Rewards Program",
+    "SUB_TITLE_4": "Support",
+    "SUB_TEXT_4": "Round-the-clock support for students and parents with helpful Staff to provide you the best experience."
+  },
+  "EVENTS": {
+    "TITLE": "Our Events",
+    "SUB_TITLE_1": "Land Fest 2019",
+    "SUB_TEXT_1": "The students of classes I & II hosted a show 'LAND FEST' -2019, on the five different types of land- kurinji, mullai, marudham, neithal, paalai",
+    "SUB_TITLE_2": "Gandhi Jayanthi 2019",
+    "SUB_TEXT_2": "The students of classes VIII & XI formed the image of Gandhiji as a tribute to his 150th birthday by holding 2500 candles.",
+    "SUB_TITLE_3": "Save Amazon 2019",
+    "SUB_TEXT_3": "2,000 students took part in the formation of mammoth Vinayaga image, praying \"Our Lungs Are Burning. Save Amazon, Save Earth\"",
+    "SUB_TITLE_4": "Climatico 2019",
+    "SUB_TEXT_4": "An exculsive show by Class 7 & 8 students showcasing the models related to climate change, global warming, and coral bleaching.",
+    "SUB_TITLE_5": "EduFun Day",
+    "SUB_TEXT_5": "Students Celebrated Edufun day to remember that Education can be fun through participating in exciting and educational events.",
+    "SUB_TITLE_6": "ScienZeal 2018",
+    "SUB_TEXT_6": "Extraordinary show by the students of classes III & IV. Gadget Savvy, Live Science Maquettes, Indepth analysis of Microbiology, Robotech,..."
+  },
+  "TESTIMONIALS": {
+    "TITLE": "What our Parents say...",
+    "SUB_TITLE_TEXT": "Parents Love Us! Here are some of the best comments we received",
+    "TESTIMONIAL_1": "Royal Public School provides a rich soil for the growth and development of each child.",
+    "TESTIMONIAL_NAME_1": "S. Ramakrishnan",
+    "TESTIMONIAL_DESIGNATION_1": "Parent - Class VI",
+    "TESTIMONIAL_2": "Their Coacing is one of the best and has helped my son to bring out his best.",
+    "TESTIMONIAL_NAME_2": "L. Gnanam",
+    "TESTIMONIAL_DESIGNATION_2": "Parent - Class - X",
+    "TESTIMONIAL_3": "The Staff are very friendly and easily approachable. I have no problems leaving my daughter with them.",
+    "TESTIMONIAL_NAME_3": "A. Suganthi",
+    "TESTIMONIAL_DESIGNATION_3": "Parent - Class II",
+    "TESTIMONIAL_4": "The Teachers explain my son's education details with so much patience eventhough I'm uneducated.",
+    "TESTIMONIAL_NAME_4": "H. Gokulnath",
+    "TESTIMONIAL_DESIGNATION_4": "Parent - Class VIII"
+    },
+    "CONTACT": {
+      "TITLE": "Get in Touch With Us!",
+      "SUB_TITLE_TEXT": "Like what you see? Leave us your name and contact details. We will get back to you as soon as possible.",
+      "NAME": "Your Name",
+      "EMAIL": "Your Email",
+      "SUBJECT": "Your Subject here",
+      "MESSAGE": "Your Message here",
+      "SEND": "Send Message"
+    },
+    "FOOTER": {
+      "TITLE": "Royal Public School",
+      "TITLE_1": "Awesome Features",
+      "SUB_TITLE_1": "Excellent Transportation",
+      "SUB_TITLE_2": "Motivational Rewards Program",
+      "SUB_TITLE_3": "Responsive Support",
+      "TITLE_2": "Contact Info",
+      "SUB_TITLE_4": "Kolathur, Chennai"
+    }
+}
