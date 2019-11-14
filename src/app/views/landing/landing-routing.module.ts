@@ -33,7 +33,7 @@ const routes: Routes = [
     component: LandingV4Component
   },
   {
-    path: "v5",
+    path: 'v5',
     component: LandingV5Component
   },
   {
